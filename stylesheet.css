@@ -1,0 +1,32 @@
+.start {
+	background-image: url(images/top.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 400px;
+	color: white;
+}
+h1{
+	
+	text-align: right;
+	position: relative;
+	right: 150px;
+	top:100px;
+	font-weight: 800;
+	font-size: 30px;
+
+}
+h3{
+	text-align: right;
+	position: relative;
+	bottom: 80px;
+	right: 200px;
+	padding: 40px;
+
+}
+.navigation a {
+	display: block;
+	margin-left: 200px;
+	position: relative;
+	top:100px;
+	padding: 15px;
+		}
